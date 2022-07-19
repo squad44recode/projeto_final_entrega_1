@@ -1,0 +1,18 @@
+body{
+    background-color: bisque;
+    justify-content: space-between;
+}
+
+h2 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: brown;
+}
+
+
+
+.jogo {
+  justify-content: space-between;
+  padding: 100px;
+  margin: 100px;
+}

@@ -1,0 +1,58 @@
+* {
+ padding: 5px;
+ border-radius: 2,5;
+}
+header {
+  justify-content: center;
+}
+
+h2{
+   color: rgb(224, 70, 13);
+   text-align: center;
+   font-family: 'Fredoka One', cursive;
+   font-size: larger;
+}
+
+
+
+.card-group {
+border: solid;
+border-width:5px;
+border-radius: 100px;
+border-color: cornflowerblue;
+padding: 25px;
+}
+
+h5 {
+   color: rgb(224, 70, 13);
+   text-align: center;
+   font-family: 'Fredoka One', cursive;
+   font-size: larger;
+}
+p {
+   font-family: 'Fredoka One', cursive;
+}
+
+.produtos {
+   font-family: 'Fredoka One', cursive;
+   font-size: large;
+   text-align: center;
+   color: orangered;
+}
+
+
+.fotos{
+    display: flex;
+    border-top: none;
+    padding-top: 0;
+}
+
+.fot{
+   flex: 1;
+   margin: 5px; 
+   text-align: center;
+}
+
+.fot img{
+   max-width: 100%;
+}
